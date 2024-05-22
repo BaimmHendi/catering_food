@@ -26,9 +26,9 @@
 		<script src="<?php echo $url ?>assets/bootstrap/js/bootstrap-datetimepicker.min.js"></script>
 		<script type="text/javascript">
 			$(function () {
-				// $('#datetimepicker').datetimepicker({
-				// 	format: 'YYYY-MM-DD HH:mm',
-                // });
+				$('#datetimepicker').datetimepicker({
+					format: 'YYYY-MM-DD HH:mm',
+                });
 				
 				// $('#datepicker').datetimepicker({
 					// format: 'DD MMMM YYYY',
