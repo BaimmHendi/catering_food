@@ -5,7 +5,7 @@
 	<div class="container footer" style="margin-top:20px;">
 		<br/>
 		<footer class="text-center">
-			<div class="col-md-12">Copyright ©2014  
+			<div class="col-md-12">Copyright ©2022  
 			<br>
 			<br>
 			</div>
